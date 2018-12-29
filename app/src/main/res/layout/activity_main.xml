@@ -15,7 +15,7 @@
 
     <ImageButton
         android:id="@+id/imgButton"
-        android:layout_width="220dp"
+        android:layout_width="221dp"
         android:layout_height="wrap_content"
         android:onClick="go"
         android:background="@drawable/photo1"
